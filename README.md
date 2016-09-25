@@ -3,7 +3,7 @@
 
 Name: Nehemiah Edwards
 
-ONID ID: edwardne@oreonstate.edu
+ONID ID: edwardne@oregonstate.edu
 
 Link to my CS 290 page: `CS290_PAGE_URL`
 
